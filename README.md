@@ -52,7 +52,7 @@ Untuk menyimpan data ***integer*** atau ***double***, DENO menggunakan format 64
 
 ## Control Flow
 
-### PHP
+### PHP IF
 
 ```
 Reserved
@@ -60,7 +60,35 @@ Reserved
 
 
 
-### DENO
+### DENO IF
+
+```
+Reserved
+```
+
+### PHP IF Else
+
+```
+Reserved
+```
+
+
+
+### DENO IF Else
+
+```
+Reserved
+```
+
+### PHP Switch
+
+```
+Reserved
+```
+
+
+
+### DENO Switch
 
 ```
 Reserved
@@ -70,6 +98,50 @@ Reserved
 
 ## Looping & Iteration
 
+### PHP While
+
+```
+Reserved
+```
+
+
+
+### DENO While
+
+```
+Reserved
+```
+
+### PHP Do..While
+
+```
+Reserved
+```
+
+
+
+### DENO Do..While
+
+```
+Reserved
+```
+
+### PHP For
+
+```
+Reserved
+```
+
+
+
+### DENO For
+
+```
+Reserved
+```
+
+## Function
+
 ### PHP
 
 ```
@@ -85,6 +157,8 @@ Reserved
 ```
 
 
+
+## 
 
 ## Array
 

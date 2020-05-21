@@ -45,7 +45,7 @@ Untuk menyimpan data ***integer*** atau ***double***, PHP menggunakan format 64 
 Deklarasi variable dengan tipe data ***number*** (***Double***) di DENO:
 
 ```typescript
-var int_var:number = 20;
+var double_var:number = 3.14;
 ```
 
 Untuk menyimpan data ***integer*** atau ***double***, DENO menggunakan format 64 **bit floating point (**[**IEEE 754**](http://en.wikipedia.org/wiki/IEEE_754-1985)**)** atau biasa disebut 64 **bit double precision**.
